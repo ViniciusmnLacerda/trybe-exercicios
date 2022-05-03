@@ -2,3 +2,4 @@ O que eu vou aprender na trybe
 - Unix
 - Bash
 - Git
+- Testes Unitários
