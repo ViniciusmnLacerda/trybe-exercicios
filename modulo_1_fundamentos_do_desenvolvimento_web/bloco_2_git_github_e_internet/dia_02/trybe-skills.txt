@@ -2,4 +2,6 @@ O que eu vou aprender na trybe
 - Unix
 - Bash
 - Git
+- Javascript
+- Softskills
 - Testes Unitários
