@@ -18,11 +18,11 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 - [X] 2-1: _O que é e para que serve?_
 - [X] 2-2: _Entendendo os comandos_
-- [ ] 2-3: _Internet - Entendendo como ela funciona_
+- [X] 2-3: _Internet - Entendendo como ela funciona_
 
-##### _[Bloco 3: Introdução à HTML & CSS](InsiraOLinkAqui)_
+##### _[Bloco 3: Introdução à HTML & CSS](https://github.com/ViniciusmnLacerda/trybe-exercicios/tree/main/modulo_1_fundamentos_do_desenvolvimento_web/bloco_3_introducao_a_html_e_css)_
 
-- [ ] 3-1: _Introdução - HTML & CSS_
+- [X] 3-1: _Introdução - HTML & CSS_
 - [ ] 3-1: _HTML & CSS - Estrutura de página_
 - [ ] 3-2: _HTML & CSS - Primeiros passos em CSS_
 - [ ] 3-3: _HTML & CSS - Seletores e posicionamento_
