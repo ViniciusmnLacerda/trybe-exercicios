@@ -1,0 +1,41 @@
+body {
+    font-size: 16px;
+  }
+
+  li {
+    text-align: center;
+    text-decoration: underline;
+  } 
+   
+  h1{
+    color: orange;
+    font-size: 65px;
+    font-family: sans-serif;
+  } 
+
+  #lista-nao-ordenada {
+    background-color: white;
+    line-height: 20px;
+    text-align: center;
+  }
+  p {
+    font-weight: 600px;
+    font-size: 3em;
+    font-style: oblique;
+
+  }
+  .classe1 {
+    background-color: pink;
+  }
+  
+  #item1 {
+    background-color: yellow;
+  }
+
+  #item2 {
+    background-color: red;
+  }
+
+  #item3 {
+    background-color: brown;
+  }
