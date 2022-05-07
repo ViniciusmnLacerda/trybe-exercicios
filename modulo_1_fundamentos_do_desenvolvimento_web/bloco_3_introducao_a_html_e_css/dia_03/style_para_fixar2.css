@@ -1,3 +1,29 @@
-body{
-    background-color: black;
+div:hover{
+  border: 3px solid black;
+
+    }
+/* cor primaŕia */
+div:nth-child(3) {
+    color: red;
+}
+/* cor secundaria */
+div:nth-child(4) {
+    color: green;
+}
+/* cor complementar */
+div:nth-child(5) {
+    color: orange;
+    font-size: 40px;
+}
+/* Cor escura */
+div:nth-child(6) {
+    color: purple;
+}
+/* Cor Clara */
+div:nth-child(7) {
+    color: gray;
+}
+/* Selecionar divs impares */
+div:nth-child(2n+1){
+    font-style: italic;
 }
