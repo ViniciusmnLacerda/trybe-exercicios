@@ -23,8 +23,8 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 ##### _[Bloco 3: Introdução à HTML & CSS](https://github.com/ViniciusmnLacerda/trybe-exercicios/tree/main/modulo_1_fundamentos_do_desenvolvimento_web/bloco_3_introducao_a_html_e_css)_
 
 - [X] 3-1: _Introdução - HTML & CSS_
-- [ ] 3-1: _HTML & CSS - Estrutura de página_
-- [ ] 3-2: _HTML & CSS - Primeiros passos em CSS_
+- [x] 3-1: _HTML & CSS - Estrutura de página_
+- [x] 3-2: _HTML & CSS - Primeiros passos em CSS_
 - [ ] 3-3: _HTML & CSS - Seletores e posicionamento_
 - [ ] 3-4: _HTML - Semântico_
 - [ ] 3-5: _[Projeto - HTML & CSS](InsiraOLinkDoProjeto)_
