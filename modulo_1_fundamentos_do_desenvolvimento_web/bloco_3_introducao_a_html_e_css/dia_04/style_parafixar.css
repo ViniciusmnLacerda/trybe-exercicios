@@ -8,20 +8,48 @@ h1 {
     height: 50px;
     text-align: center;
     width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    list-style: none;
   }
 
   .second {
+    display:inline-block;
     background-color: rgb(219, 219, 219);
     font-size: 20px;
     height: 50px;
     text-align: center;
     width: 300px;
+    list-style: none;
   }
 
   .third {
+    display: inline-block;
     background-color: rgb(170, 142, 106);
     font-size: 20px;
     height: 50px;
     text-align: center;
     width: 300px;
+    list-style: none;
   }
+
+  .flex-container {
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+  }
+
+  h3 {
+      text-align: center;
+  }
+
+li.awards {
+    display: inline-block;  
+    list-style: none;
+  }
+  .flex-container2 {
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+  }
+  
