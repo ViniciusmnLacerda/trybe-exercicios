@@ -1,0 +1,148 @@
+body {
+    background-color: rgb(253,251,251);
+    padding-top: 50px;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+#cabecalho {
+    display: flex;
+    justify-content: space-between;
+    background-color: #CCBEB7;
+    width: 1366px;
+    height: 50px;
+    top: 0;
+    position:fixed
+}
+
+.box1 {
+    height: 50px;
+    margin-top: auto;
+    margin-bottom: auto;    
+}
+
+.box2 {
+    margin-top: auto;
+    margin-bottom: auto;
+    width: 35%;
+}
+
+
+#titulo {
+    color: #434C46;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#nome {
+    width: 33%;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+    border-top: 2px solid #FFEBEF ;
+    border-bottom: 2px solid #FFEBEF;
+    font-size: 30px;    
+}
+.container {
+    margin-top: auto;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    /* background-color: red; */
+    align-items: center;
+}
+
+#presentation {
+    text-align: center;
+    width: 150px;
+    font-size: 25px;
+    font-family: fantasy;
+    line-height: 2,5ch;
+}
+
+.title-of-article {
+    width: 33%;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+    border-top: 2px solid #FFEBEF ;
+    border-bottom: 2px solid #FFEBEF;
+    font-size: 30px;
+}
+
+
+
+.title-of-article-big {
+    width: 45%;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+    border-top: 2px solid #FFEBEF ;
+    border-bottom: 2px solid #FFEBEF;
+    font-size: 30px;
+}
+
+.container2 {
+    margin-top: auto;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    /* background-color: red; */
+    align-items: center;
+}
+
+.box-list1 {
+    /* background-color: green; */
+    font-size: 23px;
+    font-family: fantasy;
+}
+
+.box-list2 {
+    /* background-color: yellow; */
+    font-size: 23px;
+    font-family: fantasy;
+}
+
+.table {
+    width: 60%;
+    /* background-color: yellow; */
+    font-size: 25px;
+    font-family: fantasy;
+    margin-left: auto;    
+}
+
+h3{
+    text-align: center;
+    font-size: 28px;
+}
+
+.paragraph {
+    width: 61%;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 25px;
+    font-family: fantasy;
+    text-align: center;
+    line-height: 3ch;
+}
+
+.container3 {
+    /* background-color: red; */
+    margin-top: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: baseline;
+}
+
+.lado-esquerdo {
+    /* background-color: green; */
+}
+
+.lado-direito {
+    /* background-color: yellow; */
+    text-align: center;
+    height: 100%;
+}
