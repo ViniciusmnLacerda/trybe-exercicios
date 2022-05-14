@@ -105,3 +105,53 @@ for (let index = 0; index < array.length; index += 1){
 }
 
 console.log("a array dividida por dois é: " + array2);
+
+bonus1
+
+let numbers = [5, 9, 3, 19, 70, 8, 100, 2, 35, 27];
+
+
+
+for (let index = 1; index < numbers.length; index += 1){
+    for (let index2 = 0; index2 < index; index2 += 1){
+        if (numbers[index] < numbers[index2]){
+            let auxiliar = numbers[index];
+            numbers[index] = numbers[index2];
+            numbers[index2] = auxiliar;
+        }
+    }
+}
+
+console.log("o vetor ordenado de forma crescente é: " + numbers);
+
+// bonus2
+
+let numbers = [5, 9, 3, 19, 70, 8, 100, 2, 35, 27];
+
+for (let index = 1; index < numbers.length; index += 1){
+    for (let index2 = 0; index2 < index; index2 += 1){
+        if (numbers[index] > numbers[index2]){
+            let auxiliar = numbers[index];
+            numbers[index] = numbers[index2];
+            numbers[index2] = auxiliar;
+        }
+    }
+}
+
+console.log("o vetor ordenado de forma decrescente é: " + numbers);
+
+bonus3
+
+let numbers = [5, 9, 3, 19, 70, 8, 100, 2, 35, 27];
+
+var multip = [];
+
+for (index = 0 ; index < numbers.length; index += 1) {
+    if (index +1 < numbers.length){
+    multip.push(numbers[index] * numbers[index+1]);
+    } else {
+        multip.push(numbers[index] * 2);
+    }
+}
+
+console.log("A array multip é: " + multip);
