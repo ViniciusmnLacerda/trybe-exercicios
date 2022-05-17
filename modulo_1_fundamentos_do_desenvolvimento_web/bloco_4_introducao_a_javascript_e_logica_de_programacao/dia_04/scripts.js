@@ -64,7 +64,7 @@ function nomes(array){
 console.log(nomes(['José', 'Lucas', 'Nádia', 'Fernanda', 'Cairo', 'Joana']));
 
 
-//exercicio 5
+//exercicio 5 não consegui fazer, aqui é o código do gabarito
 
 function maisRepetido(numeros) {
     let contRepetido = 0;
