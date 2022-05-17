@@ -64,29 +64,38 @@ function nomes(array){
 console.log(nomes(['José', 'Lucas', 'Nádia', 'Fernanda', 'Cairo', 'Joana']));
 
 
-//exercicio 5 não consegui fazer, aqui é o código do gabarito
+//exercicio 5 
 
-function maisRepetido(numeros) {
-    let contRepetido = 0;
-    let contNumero = 0;
-    let indexNumeroRepetido = 0;
-    for (let index in numeros) {
-      let verificaNumero = numeros[index];
-      for (let index2 in numeros) {
-        if (verificaNumero === numeros[index2]) {
-          contNumero += 1;
+function numerosRepetidos (array){    
+    let numeros = {}
+    for (index = 0; index < array.length; index += 1){
+        let repetido = array[index]
+       
+        if (!numeros[repetido]){
+            numeros[repetido] = 0;
+            numeros[repetido] += 1;
+        } else {
+            numeros[repetido] += 1;
         }
-      }
-      if (contNumero > contRepetido) {
-        contRepetido = contNumero;
-        indexNumeroRepetido = index;
-      }
-      contNumero = 0;
     }
-    return numeros[indexNumeroRepetido];
-  }
-  
-  console.log(maisRepetido([2, 3, 2, 5, 8, 2, 3]));
+
+    let numeroReferencia = numeros[array[0]]; 
+    let maisRepetido = ""
+    for (let key in numeros) {
+        let numeroTestado = numeros[key]
+        if (numeroTestado > numeroReferencia) {
+            maisRepetido = key; 
+        } else {
+            maisRepetido = array[0];
+        }
+    }
+
+
+
+return maisRepetido;
+}
+
+console.log("o número mais repetido é: " + numerosRepetidos([2, 3, 2, 5, 8, 2, 3]));
 
 //exercicio 6
 
@@ -231,7 +240,7 @@ const basket = [
  } 
 
 
-text2 = text.substr(0,text.length-2)
+let text2 = text.substr(0,text.length-2)
 text2 += "."; 
 
 console.log("Sua cesta possui: " + text2);
