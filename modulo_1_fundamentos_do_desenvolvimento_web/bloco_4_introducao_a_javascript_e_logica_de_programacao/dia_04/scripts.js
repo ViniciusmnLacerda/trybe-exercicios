@@ -240,7 +240,7 @@ const basket = [
  } 
 
 
-text2 = text.substr(0,text.length-2)
+let text2 = text.substr(0,text.length-2)
 text2 += "."; 
 
 console.log("Sua cesta possui: " + text2);
