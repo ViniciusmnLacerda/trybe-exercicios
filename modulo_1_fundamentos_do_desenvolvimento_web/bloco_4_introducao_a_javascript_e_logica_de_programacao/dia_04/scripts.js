@@ -170,5 +170,122 @@ function converteAlgarimosRomanos(numero) {
 
 console.log(converteAlgarimosRomanos("MMMMDCLXXIV"));
 
+//exercicio bonus 2
+
+function arrayOfNumbers (array) {
+
+    let pares = [];
+    for (index = 0; index < array.length; index += 1){
+        let arrayDaArray = array[index]; 
+
+        for (index2 = 0; index2 < arrayDaArray.length; index2 += 1){
+            if (arrayDaArray[index2] % 2 === 0)
+            pares.push(arrayDaArray[index2])
+        }
+    }
+
+    return pares; 
+}
+
+    
+console.log(arrayOfNumbers([[1, 2], [3,4,5,6], [7,8,9,10]]));
+
+//exercicio bonus 3
+
+const basket = [
+    'Melancia', 'Abacate', 'Melancia', 'Melancia', 'Uva', 'Laranja',
+    'Jaca', 'Pera', 'Melancia', 'Uva', 'Laranja', 'Melancia',
+    'Banana', 'Uva', 'Pera', 'Abacate', 'Laranja', 'Abacate',
+    'Banana', 'Melancia', 'Laranja', 'Laranja', 'Jaca', 'Uva',
+    'Banana', 'Uva', 'Laranja', 'Pera', 'Melancia', 'Uva',
+    'Jaca', 'Banana', 'Pera', 'Abacate', 'Melancia', 'Melancia',
+    'Laranja', 'Pera', 'Banana', 'Jaca', 'Laranja', 'Melancia',
+    'Abacate', 'Abacate', 'Pera', 'Melancia', 'Banana', 'Banana',
+    'Abacate', 'Uva', 'Laranja', 'Banana', 'Abacate', 'Uva',
+    'Uva', 'Abacate', 'Abacate', 'Melancia', 'Uva', 'Jaca',
+    'Uva', 'Banana', 'Abacate', 'Banana', 'Uva', 'Banana',
+    'Laranja', 'Laranja', 'Jaca', 'Jaca', 'Abacate', 'Jaca',
+    'Laranja', 'Melancia', 'Pera', 'Jaca', 'Melancia', 'Uva',
+    'Abacate', 'Jaca', 'Jaca', 'Abacate', 'Uva', 'Laranja',
+    'Pera', 'Melancia', 'Jaca', 'Pera', 'Laranja', 'Jaca',
+    'Pera', 'Melancia', 'Jaca', 'Banana', 'Laranja', 'Jaca',
+    'Banana', 'Pera', 'Abacate', 'Uva',
+  ];
+
+  const cesta = {};
+
+  for (let index = 0; index < basket.length; index += 1){
+    let fruta = basket[index];  
+        if (!cesta[fruta]) {
+        cesta[fruta] = 0;    
+        cesta[fruta] += 1;
+        } else {
+            cesta[fruta] += 1;
+        }
+ 
+  }
+  let text = " ";
+ for (let key in cesta) {
+
+    text +=  cesta[key] + " " + key + "s, ";
+ } 
 
 
+text2 = text.substr(0,text.length-2)
+text2 += "."; 
+
+console.log("Sua cesta possui: " + text2);
+
+//exercicios bonus 4
+
+let moradores = {
+    blocoUm: [
+      {
+        nome: 'Luiza',
+        sobrenome: 'Guimarães',
+        andar: 10,
+        apartamento: 1005,
+      },
+      {
+        nome: 'William',
+        sobrenome: 'Albuquerque',
+        andar: 5,
+        apartamento: 502,
+      },
+    ],
+    blocoDois: [
+      {
+        nome: 'Murilo',
+        sobrenome: 'Ferraz',
+        andar: 8,
+        apartamento: 804,
+      },
+      {
+        nome: 'Zoey',
+        sobrenome: 'Brooks',
+        andar: 1,
+        apartamento: 101,
+      },
+    ],
+  };
+
+let blocoDois = moradores.blocoDois; 
+let zoey = blocoDois[blocoDois.length-1]
+
+
+
+console.log("O morador do bloco 2 de nome " + zoey.nome + " " + zoey.sobrenome + " mora no " + zoey.andar + "°, " + "apartamento " + zoey.apartamento);
+
+//exercicio bonus 5 
+
+let blocoI = moradores.blocoUm; 
+let blocoIi = moradores.blocoDois
+
+
+for (let index = 0; index < blocoI.length; index += 1){
+    console.log(blocoI[index].nome + " " + blocoI[index].sobrenome);
+}
+
+for (let index2 = 0; index2 < blocoIi.length; index2 += 1){
+    console.log(blocoIi[index2].nome + " " + blocoIi[index2].sobrenome);
+}
