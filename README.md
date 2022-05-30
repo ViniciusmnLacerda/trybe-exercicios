@@ -1,4 +1,4 @@
-# Trybe
+
 
 Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[Vinícius Lacerda](https://github.com/ViniciusmnLacerda)_ enquanto estudava na [Trybe](https://www.betrybe.com/).
 
