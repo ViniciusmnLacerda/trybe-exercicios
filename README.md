@@ -27,7 +27,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 3-2: _HTML & CSS - Primeiros passos em CSS_
 - [X] 3-3: _HTML & CSS - Seletores e posicionamento_
 - [X] 3-4: _HTML - Semântico_
-- [X] 3-5: _[Projeto - HTML & CSS](https://github.com/ViniciusmnLacerda/trybe-exercicios/tree/main/modulo_1_fundamentos_do_desenvolvimento_web/bloco_3_introducao_a_html_e_css/dia_05)_
+- [X] 3-5: _[Projeto - HTML & CSS](https://github.com/ViniciusmnLacerda/trybe-exercicios/tree/main/modulo_1_fundamentos_do_desenvolvimento_web/bloco_3_introducao_a_html_e_css/Projeto_HTML_CSS)_
 
 ##### _[Bloco 4: Introdução à JavaScript e Lógica de Programação](https://github.com/ViniciusmnLacerda/trybe-exercicios/tree/main/modulo_1_fundamentos_do_desenvolvimento_web/bloco_4_introducao_a_javascript_e_logica_de_programacao)_
 
@@ -36,20 +36,20 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 4-2: _JavaScript - Array e loop For_
 - [X] 4-3: _JavaScript - Lógica de Programação e Algoritmos_
 - [X] 4-4: _JavaScript - Objetos e funções_
-- [X] 4-5: _[Projeto - Playground Functions](https://github.com/ViniciusmnLacerda/trybe-exercicios/tree/main/modulo_1_fundamentos_do_desenvolvimento_web/bloco_4_introducao_a_javascript_e_logica_de_programacao/dia_05-projeto)_
+- [X] 4-5: _[Projeto - Playground Functions](https://github.com/ViniciusmnLacerda/trybe-exercicios/tree/main/modulo_1_fundamentos_do_desenvolvimento_web/bloco_4_introducao_a_javascript_e_logica_de_programacao/Projeto_Playground_Functions)_
 
 ##### _[Bloco 5: JavaScript: DOM, Eventos e Web Storage](InsiraOLinkAqui)_
 
-- [ ] 5-1: _JavaScript - DOM e seletores_
-- [ ] 5-2: _JavaScript - Trabalhando com elementos_
-- [ ] 5-3: _JavaScript - Eventos_
-- [ ] 5-4: _JavaScript - Web Storage_
-- [ ] 5-5: _Fundamentos - JavaScript - Projetos_
-- [ ] 5-5: _[Projeto - Arte com Pixels]()_
-- [ ] 5-6: _[Projeto - Lista de Tarefas]()_
-- [ ] 5-7: _[Projeto - Meme Generator]()_
-- [ ] 5-7: _[Projeto - Adivinhe a Cor]()_
-- [ ] 5-7: _[Projeto - Carta Misteriosa]()_
+- [X] 5-1: _JavaScript - DOM e seletores_
+- [X] 5-2: _JavaScript - Trabalhando com elementos_
+- [X] 5-3: _JavaScript - Eventos_
+- [X] 5-4: _JavaScript - Web Storage_
+- [X] 5-5: _Fundamentos - JavaScript - Projetos_
+- [X] 5-5: _[Projeto - Arte com Pixels](https://github.com/ViniciusmnLacerda/trybe-exercicios/tree/main/modulo_1_fundamentos_do_desenvolvimento_web/bloco_5_javascript_dom_eventos_e_webstorage/Projeto_Arte_com_pixels)_
+- [X] 5-6: _[Projeto - Lista de Tarefas](https://github.com/ViniciusmnLacerda/trybe-exercicios/tree/main/modulo_1_fundamentos_do_desenvolvimento_web/bloco_5_javascript_dom_eventos_e_webstorage/Projeto_Lista_de_Tarefas)_
+- [X] 5-7: _[Projeto - Meme Generator](https://github.com/ViniciusmnLacerda/trybe-exercicios/tree/main/modulo_1_fundamentos_do_desenvolvimento_web/bloco_5_javascript_dom_eventos_e_webstorage/Projeto_Meme_Generator)_
+- [X] 5-7: _[Projeto - Adivinhe a Cor](https://github.com/ViniciusmnLacerda/trybe-exercicios/tree/main/modulo_1_fundamentos_do_desenvolvimento_web/bloco_5_javascript_dom_eventos_e_webstorage/Projeto_Advinhe_a_Cor)_
+- [X] 5-7: _[Projeto - Carta Misteriosa](https://github.com/ViniciusmnLacerda/trybe-exercicios/tree/main/modulo_1_fundamentos_do_desenvolvimento_web/bloco_5_javascript_dom_eventos_e_webstorage/Projeto_Carta_Misteriosa)_
 
 ##### _[Bloco 6: HTML e CSS: Forms, Flexbox e Responsivo](InsiraOLinkAqui)_
 
