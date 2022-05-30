@@ -1,6 +1,6 @@
 
 
-Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[Vinícius Lacerda](https://github.com/ViniciusmnLacerda)_ enquanto estudava na [Trybe](https://www.betrybe.com/).
+Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[Vinícius Lacerda](https://www.linkedin.com/in/viniciuslmn/)_ enquanto estudava na [Trybe](https://www.betrybe.com/).
 
 
 
