@@ -1,3 +1,5 @@
+@import './node_modules/pikaday/css/pikaday.css';
+
 .destinoChecked {
     border: 2px solid black;
 }

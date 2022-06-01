@@ -63,3 +63,5 @@ function border() {
         }
     };
 };
+
+var picker = new Pikaday({ field: document.getElementById('datepicker') });
