@@ -1,18 +1,67 @@
-.box {
-    color: #9069EF;
-    background-color: rgb(243, 243, 243);
-    border: 2px solid #232525;
-    font-size: 50px;
-    height: 60px;
-    margin: 10px 5px;
-    text-align: center;
-    width: 30%;
-  }
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Ubuntu';
+}
 
-  .box-container {
-    background-color: #0fa36b;
-    display: flex;
-    /* ADICIONE AQUI SEUS TESTES */
-    flex-direction: row-reverse; 
-    flex-wrap:wrap-reverse
-  }
+.header-container {
+  display:flex;
+  background-color: rgb(46, 44, 44);
+  justify-content: space-around;
+  align-items: center;
+}
+
+#title {
+  color: white;
+}
+
+#sign-up{
+  color: rgb(252, 237, 237);
+  text-decoration: underline;
+}
+.header-img {
+  width: 70px;
+}
+
+.gallery-img {
+  width: 150px;
+}
+
+.social-img {
+  width: 25px;
+  margin-left: 10px;
+}
+
+.section-container {
+  display: flex;
+  justify-content: center;
+}
+
+.flex-container {
+  text-align: center;
+  display: flex;
+  width: 490px;
+  height: 380px;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-content: space-between;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 10px;
+}
+
+.div-container {
+  background-color: rgb(192, 192, 192);
+  border-radius: 10px;
+}
+
+.paragraph {
+  text-align: center;
+}
+
+.footer-container {
+  display: flex;
+  padding-top: 7px;
+  justify-content: center;
+}
