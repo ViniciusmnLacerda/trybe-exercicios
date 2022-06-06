@@ -5,3 +5,81 @@ html {
   *, *:before, *:after {
     box-sizing: inherit;
   }
+  .container {
+      display: flex;
+  }
+
+  @media screen and (max-width: 500px) {
+    #title {
+        font-size: 1.2em;
+        text-align: center;
+    }
+    
+    h2 {
+        text-align: center;
+        font-size: 1.4em;
+    }
+
+    h1 {
+        font-size: 1.5em;
+        text-align: center;
+    }
+    
+    p {
+        padding: 0px 3px;
+        font-size: 1.1em;
+    }
+
+    .container {
+        flex-wrap: wrap;
+    }
+
+    #footer-large {
+        display: none;
+    }
+  }
+
+  @media screen and (min-width: 500px) {
+    #title {
+        font-size: 1.2em;
+        text-align: center;
+    }
+    
+    h2 {
+        text-align: center;
+        font-size: 1.4em;
+    }
+
+    h1 {
+        font-size: 1.5em;
+        text-align: center;
+    }
+    
+    p {
+        padding: 0px 7px;
+        font-size: 1.2em;
+    }
+    
+    .container {
+        flex-wrap: wrap;
+    }
+    
+    #footer-large {
+        display: none;
+    }
+  }
+
+  @media screen and (min-width: 1100px) {
+    #footer-small {
+        display: none;
+    }
+
+    #footer-large {
+        display: block;
+        width: 30%;
+    }
+    li {
+        font-size: 1.2em;
+    }
+
+  }
