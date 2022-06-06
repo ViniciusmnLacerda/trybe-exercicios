@@ -1,0 +1,160 @@
+
+body{
+    background-color: #ADD1EB;
+    padding: 0;
+}
+
+/* titulo da pagina */
+h1{ 
+    padding-bottom: 15px;
+    height: 40px;
+    width: 600px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
+}
+
+#img1{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 100%;
+
+}
+
+h3{
+    text-align: center;
+    border-bottom: 1px solid black;
+    font-size: 24px;
+}
+
+h4{
+    text-align: center;
+    font-size: 22px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.paragrafoD{
+    width: 500px;
+    font-size: 22px;
+    text-align: justify;
+    margin-left: 25px;
+    max-width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.paragrafoE{
+    width: 500px;
+    font-size: 22px;
+    text-align: justify;
+    margin-right: 25px;
+    max-width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.flexbox{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+ 
+}
+
+#table {
+    margin-left: 20px;
+    font-size: 22px;
+    max-width: 100%;
+}
+
+#video {
+    width: 600px;
+    margin: 0 auto;
+    display: block;
+    border: 8px solid blue;
+    max-width: 100%;
+}
+
+#bibliografia {
+    text-align: left;
+}
+
+@media screen and (max-width: 768px) {
+    nav a {
+        text-decoration: none;
+        color: black;
+    }
+
+    .flexbox {
+        flex-direction: column;
+        margin-right: auto;
+        margin-left: auto;
+        justify-content: center;
+    }
+
+    #img1, #img2 {
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    #img3 {
+        order: -1;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    #img4 {
+        max-width: 100%;
+    }
+
+    .img {
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    #table {
+        text-align: center;
+        max-width: 540px;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .img {
+        margin-right: 5px;
+        margin-left: 5px;
+    }
+
+    #section3 {
+        padding-top: 5px;
+    }
+
+    .paragrafoE, .paragrafoD {
+        font-size: 2em;
+    }
+
+    .sub-title {
+        font-size: 2.1em;
+    }
+
+    #pagina-inicial {
+        font-size: 2.3em;
+    }
+
+    h1 {
+        font-size: 2.4em;
+    }
+
+    nav a {
+        font-size: 1.5em;
+        color: black;
+        text-decoration: none;
+    }
+}
+
+@media screen and (min-width: 1000px) {
+    body {
+        max-width: 1000px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}

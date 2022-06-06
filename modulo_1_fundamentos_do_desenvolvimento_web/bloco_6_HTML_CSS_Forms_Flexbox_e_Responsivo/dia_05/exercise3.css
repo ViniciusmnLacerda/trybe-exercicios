@@ -111,8 +111,8 @@ body {
             margin: 0;
             padding: 0;
             flex-direction: column;
-            list-style: none;
-          }
+
+        }
 
         #navigation {
             padding-top: 60px;
