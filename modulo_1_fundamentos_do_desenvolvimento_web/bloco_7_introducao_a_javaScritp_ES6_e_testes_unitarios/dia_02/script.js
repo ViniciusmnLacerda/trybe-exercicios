@@ -1,4 +1,4 @@
-/* //parte I
+//parte I
 window.onload = () => {
   const button = document.getElementById('button');
   button.addEventListener('click', sum);
@@ -30,7 +30,7 @@ function sum() {
   }
 } */
 
-/* //parte II
+//parte II
 const order = {
   name: 'Rafael Andrade',
   phoneNumber: '11-98763-1416',
@@ -87,7 +87,7 @@ const drink = order.order.drinks.coke.type;
 console.log(`Olá ${newName}, o total do seu pedido de ${pizza[0]}, ${pizza[1]} e ${drink} é R$ ${newPrice},00.`);
 }
 orderModifier(order);
- */
+ 
 
 //parte 3 
 const lesson1 = {
