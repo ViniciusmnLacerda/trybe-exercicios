@@ -53,20 +53,20 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ##### _[Bloco 6: HTML e CSS: Forms, Flexbox e Responsivo](InsiraOLinkAqui)_
 
-- [ ] 6-1: _HTML & CSS - Forms_
-- [ ] 6-2: _Bibliotecas JavaScript e Frameworks CSS_
-- [ ] 6-3: _Introdução - CSS Flexbox_
-- [ ] 6-3: _CSS Flexbox - Part 1_
-- [ ] 6-4: _CSS Flexbox - Part 2_
-- [ ] 6-5: _CSS Responsivo - Mobile First_
-- [ ] 6-6: _[Projeto - Trybewarts]()_
+- [X] 6-1: _HTML & CSS - Forms_
+- [X] 6-2: _Bibliotecas JavaScript e Frameworks CSS_
+- [X] 6-3: _Introdução - CSS Flexbox_
+- [X] 6-3: _CSS Flexbox - Part 1_
+- [X] 6-4: _CSS Flexbox - Part 2_
+- [X] 6-5: _CSS Responsivo - Mobile First_
+- [X] 6-6: _[Projeto - Trybewarts]()_
 
 ##### _[Bloco 7: Introdução à JavaScript ES6 e Testes Unitários](InsiraOLinkAqui)_
 
-- [ ] 7-1: _JavaScript ES6 - let, const, arrow functions e template literals_
-- [ ] 7-2: _JavaScript ES6 - Fluxo de exceção e Objetos_
-- [ ] 7-3: _Primeiros passos em Jest_
-- [ ] 7-4: _[Projeto - JavaScript Testes Unitários]()_
+- [X] 7-1: _JavaScript ES6 - let, const, arrow functions e template literals_
+- [X] 7-2: _JavaScript ES6 - Fluxo de exceção e Objetos_
+- [X] 7-3: _Primeiros passos em Jest_
+- [X] 7-4: _[Projeto - JavaScript Testes Unitários]()_
 
 ##### _[Bloco 8: Higher Order Functions do JavaScript ES6](InsiraOLinkAqui)_
 
