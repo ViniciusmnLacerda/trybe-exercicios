@@ -73,8 +73,10 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 8-1: _JavaScript ES6 - Introdução a Higher Order Functions_ 
 - [X] 8-2: _JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort_
 - [X] 8-3: _JavaScript ES6 - Higher Order Functions - map e filter_
-- [ ] 8-4: _JavaScript ES6 - Higher Order Functions - map e filter - reduce_
-- [ ] 8-5: _[Projeto - Zoo functions]()_
+- [X] 8-4: _JavaScript ES6 - Higher Order Functions - map e filter - reduce_
+- [X] 8-5: _[Projeto - Zoo functions](https://github.com/ViniciusmnLacerda/trybe-exercicios/tree/main/modulo_1_fundamentos_do_desenvolvimento_web/bloco_08_higher_order_functions_do_javascript_ES6/Projeto-zoo-functions)_
+
+## Desenvolvimento Front-end :hourglass_flowing_sand:
 
 ##### _[Bloco 9: JavaScritp e Testes Assíncronos](InsiraOLinkAqui)_
 
@@ -82,8 +84,6 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] 9-2: _JavaScript Assíncrono - Fetch API e async/await_
 - [ ] 9-3: _Jest - Testes Assíncronos_
 - [ ] 9-3: _[Projeto - Carrinho de Compras]()_
-
-## Desenvolvimento Front-end :hourglass_flowing_sand:
 
 ##### _[Bloco 10: Introdução à React](InsiraOLinkAqui)_
 
