@@ -66,7 +66,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 7-1: _JavaScript ES6 - let, const, arrow functions e template literals_
 - [X] 7-2: _JavaScript ES6 - Fluxo de exceção e Objetos_
 - [X] 7-3: _Primeiros passos em Jest_
-- [X] 7-4: _[Projeto - JavaScript Testes Unitários](https://github.com/ViniciusmnLacerda/trybe-exercicios/tree/main/modulo_1_fundamentos_do_desenvolvimento_web/bloco_7_introducao_a_javaScritp_ES6_e_testes_unitarios/Projeto-js-unit-tests)_
+- [X] 7-4: _[Projeto - JavaScript Testes Unitários](https://github.com/ViniciusmnLacerda/trybe-exercicios/tree/main/modulo_1_fundamentos_do_desenvolvimento_web/bloco_07_introducao_a_javaScritp_ES6_e_testes_unitarios/Projeto-js-unit-tests)_
 
 ##### _[Bloco 8: Higher Order Functions do JavaScript ES6](https://github.com/ViniciusmnLacerda/trybe-exercicios/tree/main/modulo_1_fundamentos_do_desenvolvimento_web/bloco_08_higher_order_functions_do_javascript_ES6)_
 
