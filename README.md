@@ -6,7 +6,7 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 
 O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.
 
-## Fundamentos do Desenvolvimento Web :hourglass_flowing_sand:
+## Fundamentos do Desenvolvimento Web 
 
 ##### _[Bloco 1: Introdução - Unix & Shell](https://github.com/ViniciusmnLacerda/trybe-exercicios/tree/main/modulo_1_fundamentos_do_desenvolvimento_web/bloco_1_unix_e_shell)_ 
 - [X] 1-3: _Fundamentos do Desenvolvimento Web_
@@ -38,7 +38,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 4-4: _JavaScript - Objetos e funções_
 - [X] 4-5: _[Projeto - Playground Functions](https://github.com/ViniciusmnLacerda/trybe-exercicios/tree/main/modulo_1_fundamentos_do_desenvolvimento_web/bloco_4_introducao_a_javascript_e_logica_de_programacao/Projeto_Playground_Functions)_
 
-##### _[Bloco 5: JavaScript: DOM, Eventos e Web Storage](InsiraOLinkAqui)_
+##### _[Bloco 5: JavaScript: DOM, Eventos e Web Storage](https://github.com/ViniciusmnLacerda/trybe-exercicios/tree/main/modulo_1_fundamentos_do_desenvolvimento_web/bloco_05_javascript_dom_eventos_e_webstorage)_
 
 - [X] 5-1: _JavaScript - DOM e seletores_
 - [X] 5-2: _JavaScript - Trabalhando com elementos_
@@ -51,7 +51,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 5-7: _[Projeto - Adivinhe a Cor](https://github.com/ViniciusmnLacerda/trybe-exercicios/tree/main/modulo_1_fundamentos_do_desenvolvimento_web/bloco_5_javascript_dom_eventos_e_webstorage/Projeto_Advinhe_a_Cor)_
 - [X] 5-7: _[Projeto - Carta Misteriosa](https://github.com/ViniciusmnLacerda/trybe-exercicios/tree/main/modulo_1_fundamentos_do_desenvolvimento_web/bloco_5_javascript_dom_eventos_e_webstorage/Projeto_Carta_Misteriosa)_
 
-##### _[Bloco 6: HTML e CSS: Forms, Flexbox e Responsivo](InsiraOLinkAqui)_
+##### _[Bloco 6: HTML e CSS: Forms, Flexbox e Responsivo](https://github.com/ViniciusmnLacerda/trybe-exercicios/tree/main/modulo_1_fundamentos_do_desenvolvimento_web/bloco_06_HTML_CSS_Forms_Flexbox_e_Responsivo)_
 
 - [X] 6-1: _HTML & CSS - Forms_
 - [X] 6-2: _Bibliotecas JavaScript e Frameworks CSS_
@@ -61,14 +61,14 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 6-5: _CSS Responsivo - Mobile First_
 - [X] 6-6: _[Projeto - Trybewarts](https://github.com/ViniciusmnLacerda/trybe-exercicios/tree/main/modulo_1_fundamentos_do_desenvolvimento_web/bloco_6_HTML_CSS_Forms_Flexbox_e_Responsivo/Projeto_Trybewarts)_
 
-##### _[Bloco 7: Introdução à JavaScript ES6 e Testes Unitários](InsiraOLinkAqui)_
+##### _[Bloco 7: Introdução à JavaScript ES6 e Testes Unitários](https://github.com/ViniciusmnLacerda/trybe-exercicios/tree/main/modulo_1_fundamentos_do_desenvolvimento_web/bloco_07_introducao_a_javaScritp_ES6_e_testes_unitarios)_
 
 - [X] 7-1: _JavaScript ES6 - let, const, arrow functions e template literals_
 - [X] 7-2: _JavaScript ES6 - Fluxo de exceção e Objetos_
 - [X] 7-3: _Primeiros passos em Jest_
 - [X] 7-4: _[Projeto - JavaScript Testes Unitários](https://github.com/ViniciusmnLacerda/trybe-exercicios/tree/main/modulo_1_fundamentos_do_desenvolvimento_web/bloco_7_introducao_a_javaScritp_ES6_e_testes_unitarios/Projeto-js-unit-tests)_
 
-##### _[Bloco 8: Higher Order Functions do JavaScript ES6](InsiraOLinkAqui)_
+##### _[Bloco 8: Higher Order Functions do JavaScript ES6](https://github.com/ViniciusmnLacerda/trybe-exercicios/tree/main/modulo_1_fundamentos_do_desenvolvimento_web/bloco_08_higher_order_functions_do_javascript_ES6)_
 
 - [X] 8-1: _JavaScript ES6 - Introdução a Higher Order Functions_ 
 - [X] 8-2: _JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort_
@@ -76,14 +76,14 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 8-4: _JavaScript ES6 - Higher Order Functions - map e filter - reduce_
 - [X] 8-5: _[Projeto - Zoo functions](https://github.com/ViniciusmnLacerda/trybe-exercicios/tree/main/modulo_1_fundamentos_do_desenvolvimento_web/bloco_08_higher_order_functions_do_javascript_ES6/Projeto-zoo-functions)_
 
-## Desenvolvimento Front-end :hourglass_flowing_sand:
+## Desenvolvimento Front-end 
 
-##### _[Bloco 9: JavaScritp e Testes Assíncronos](InsiraOLinkAqui)_
+##### _[Bloco 9: JavaScritp e Testes Assíncronos](https://github.com/ViniciusmnLacerda/trybe-exercicios/tree/main/modulo_2_desenvolvimento_front_end/bloco_09_javascript_e_testes_assincronos)_
 
-- [ ] 9-1: _JavaScript Assíncrono e Callbacks_
-- [ ] 9-2: _JavaScript Assíncrono - Fetch API e async/await_
-- [ ] 9-3: _Jest - Testes Assíncronos_
-- [ ] 9-3: _[Projeto - Carrinho de Compras]()_
+- [X] 9-1: _JavaScript Assíncrono e Callbacks_
+- [X] 9-2: _JavaScript Assíncrono - Fetch API e async/await_
+- [X] 9-3: _Jest - Testes Assíncronos_
+- [X] 9-3: _[Projeto - Carrinho de Compras](https://github.com/ViniciusmnLacerda/trybe-exercicios/tree/main/modulo_2_desenvolvimento_front_end/bloco_09_javascript_e_testes_assincronos/Projeto-shoppping-cart/sd-023-a-project-shopping-cart)_
 
 ##### _[Bloco 10: Introdução à React](InsiraOLinkAqui)_
 
@@ -134,7 +134,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 - [ ] 17-1: _[Projeto - App de Receitas]()_
 
-## Desenvolvimento Back-end :hourglass_flowing_sand:
+## Desenvolvimento Back-end 
 
 ##### _[Bloco 19: Docker: Utilizando Containers](InsiraOLinkAqui)_
 
@@ -245,7 +245,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] 32-1: _Dia 1_ 
 - [ ] 32-2: _Dia 2_
 
-## Ciência da Computação :hourglass_flowing_sand:
+## Ciência da Computação 
 
 ##### _[Bloco 33: Introdução à Python](InsiraOLinkAqui)_
 
