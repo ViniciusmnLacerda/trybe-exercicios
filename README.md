@@ -14,13 +14,13 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 1-3: _Unix & Shell- Part 1_
 - [X] 1-4: _Unix & Shell- Part 2_
 
-##### _[Bloco 2: Git & GitHub](https://github.com/ViniciusmnLacerda/trybe-exercicios/tree/main/modulo_1_fundamentos_do_desenvolvimento_web/bloco_2_git_github_e_internet)_
+##### _[Bloco 2: Git & GitHub](https://github.com/ViniciusmnLacerda/trybe-exercicios/tree/main/modulo_1_fundamentos_do_desenvolvimento_web/bloco_02_git_github_e_internet)_
 
 - [X] 2-1: _O que é e para que serve?_
 - [X] 2-2: _Entendendo os comandos_
 - [X] 2-3: _Internet - Entendendo como ela funciona_
 
-##### _[Bloco 3: Introdução à HTML & CSS](https://github.com/ViniciusmnLacerda/trybe-exercicios/tree/main/modulo_1_fundamentos_do_desenvolvimento_web/bloco_3_introducao_a_html_e_css)_
+##### _[Bloco 3: Introdução à HTML & CSS](https://github.com/ViniciusmnLacerda/trybe-exercicios/tree/main/modulo_1_fundamentos_do_desenvolvimento_web/bloco_03_introducao_a_html_e_css)_
 
 - [X] 3-1: _Introdução - HTML & CSS_
 - [x] 3-1: _HTML & CSS - Estrutura de página_
@@ -29,7 +29,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 3-4: _HTML - Semântico_
 - [X] 3-5: _[Projeto - HTML & CSS](https://github.com/ViniciusmnLacerda/trybe-exercicios/tree/main/modulo_1_fundamentos_do_desenvolvimento_web/bloco_3_introducao_a_html_e_css/Projeto_HTML_CSS)_
 
-##### _[Bloco 4: Introdução à JavaScript e Lógica de Programação](https://github.com/ViniciusmnLacerda/trybe-exercicios/tree/main/modulo_1_fundamentos_do_desenvolvimento_web/bloco_4_introducao_a_javascript_e_logica_de_programacao)_
+##### _[Bloco 4: Introdução à JavaScript e Lógica de Programação](https://github.com/ViniciusmnLacerda/trybe-exercicios/tree/main/modulo_1_fundamentos_do_desenvolvimento_web/bloco_04_introducao_a_javascript_e_logica_de_programacao)_
 
 - [X] 4-1: _Introdução - JavaScript_
 - [X] 4-1: _JavaScript - Primeiros passos_
