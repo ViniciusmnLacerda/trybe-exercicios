@@ -87,17 +87,17 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ##### _[Bloco 10: Introdução à React](InsiraOLinkAqui)_
 
-- [ ] 10-1: _Introdução - Front-end_
-- [ ] 10-1: _Introdução - React_
-- [ ] 10-1: _'Hello, world!' no React!_
-- [ ] 10-2: _Componentes React_
-- [ ] 10-3: _[Projeto - Sistema Solar]()_
+- [X] 10-1: _Introdução - Front-end_
+- [X] 10-1: _Introdução - React_
+- [X] 10-1: _'Hello, world!' no React!_
+- [X] 10-2: _Componentes React_
+- [X] 10-3: _[Projeto - Sistema Solar](https://github.com/ViniciusmnLacerda/trybe-exercicios/tree/main/modulo_2_desenvolvimento_front_end/bloco_10_introducao_a_react/Projeto-solar-system/src)_
 
 ##### _[Bloco 11: Componentes com Estado, Eventos e Formulários com React](InsiraOLinkAqui)_
 
-- [ ] 11-1: _Components com estado e eventos_
-- [ ] 11-2: _Formulários no React_
-- [ ] 11-3: _[Projeto - Tryunfo]()_
+- [X] 11-1: _Components com estado e eventos_
+- [X] 11-2: _Formulários no React_
+- [X] 11-3: _[Projeto - Tryunfo](https://github.com/ViniciusmnLacerda/trybe-exercicios/tree/main/modulo_2_desenvolvimento_front_end/bloco_11_componentes_estado_eventos_formularios_com_react/Projeto-tryunfo)_
 
 ##### _[Bloco 12: Ciclo de Vida de Componentes e React Router](InsiraOLinkAqui)_
 
