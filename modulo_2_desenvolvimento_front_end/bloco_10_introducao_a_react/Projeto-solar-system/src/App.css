@@ -1,0 +1,196 @@
+#root {
+  position: relative;
+  background: #C5C9CE;
+}
+
+.App {
+  position: absolute;
+  width: 100%;
+  background: url(/src/images/background.png);
+}
+
+.header-container h1 {
+  margin-left: auto;
+  margin-right: auto;
+  width: 692px;
+  height: 150px;
+  top: 101px;
+  font-family: 'Epilogue';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 100px;
+  line-height: 150%;
+  color: #FFFFFF;
+}
+
+.sub-title-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  box-sizing: border-box;
+  width: 1140px;
+  height: 98px;
+  top: 317px;
+  background: rgba(24, 26, 37, 0.5);
+  mix-blend-mode: hard-light;
+  border: 1px solid #FFFFFF;
+  border-radius: 17px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.sub-title-container h2 {
+  text-align: center;
+  width: 218px;
+  height: 75px;
+  left: 613px;
+  font-family: 'Epilogue';
+  font-style: normal;
+  font-size: 50px;
+  line-height: 150%;
+  color: #FFFFFF;
+}
+
+.planets-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  margin: 100px auto;
+  width: 1231px;
+  height: 282.54px;
+  align-items: center;
+}
+
+.planets-container .planet-card-container:nth-child(1) .planet-image {
+  width: 41px;
+  color: #FFFFFF;
+}
+
+.planets-container .planet-card-container:nth-child(2) .planet-image {
+  width: 102px;
+}
+
+.planets-container .planet-card-container:nth-child(3) .planet-image {
+  width: 106px;
+}
+
+.planets-container .planet-card-container:nth-child(4) .planet-image {
+  width: 272px;
+}
+
+.planets-container .planet-card-container:nth-child(6) .planet-image {
+  width: 282.41px;
+}
+
+.planets-container .planet-card-container:nth-child(6) .planet-image {
+  width: 144px;
+}
+
+.planets-container .planet-card-container:nth-child(7) .planet-image {
+  width: 144px;
+}
+
+.planets-container .planet-card-container:nth-child(8) .planet-image {
+  width: 50px;
+}
+
+.planets-container .planet-card-container:nth-child(1) p {
+  width: 71px;
+  height: 24px;
+  color: #FFFFFF;
+}
+
+.planets-container .planet-card-container:nth-child(2) p {
+  width: 48px;
+  height: 24px;
+  color: #FFFFFF;
+}
+
+.planets-container .planet-card-container:nth-child(3) p {
+  width: 41px;
+  height: 24px;
+  color: #FFFFFF;
+}
+
+.planets-container .planet-card-container:nth-child(4) p {
+  width: 47px;
+  height: 24px;
+  color: #FFFFFF;
+}
+
+.planets-container .planet-card-container:nth-child(5) p {
+  width: 52px;
+  height: 24;
+  color: #FFFFFF;
+}
+
+.planets-container .planet-card-container:nth-child(6) p {
+  width: 63px;
+  height: 24px;
+  color: #FFFFFF;
+}
+
+.planets-container .planet-card-container:nth-child(7) p {
+  width: 47px;
+  height: 24px;
+  color: #FFFFFF;
+}
+
+.planets-container .planet-card-container:nth-child(8) p {
+  width: 58px;
+  height: 24px;
+  color: #FFFFFF;
+}
+
+.planet-card-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.missions-cards-container {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  width: 1140px;
+}
+
+.mission-card-container {
+  background: rgba(24, 26, 37, 0.5);
+  mix-blend-mode: hard-light;
+  border: 1px solid #FFFFFF;
+  border-radius: 17px;
+  width: 350px;
+  height: 400px;
+  margin-bottom: 40px;
+}
+
+.mission-card-container p {
+  color: #FFFFFF;
+}
+
+.name-container {
+  border-bottom: 1px solid #FFFFFF;
+}
+
+.name-container p {
+  text-align: center;
+  font-family: 'Epilogue';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 35px;
+  line-height: 120%;
+}
+
+.info-container p {
+  text-align: center;
+  font-family: 'Epilogue';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 120%;
+}
