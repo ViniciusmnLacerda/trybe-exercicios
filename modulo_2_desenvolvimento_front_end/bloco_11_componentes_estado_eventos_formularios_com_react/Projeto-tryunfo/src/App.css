@@ -1,0 +1,426 @@
+body {
+  background: #FAFAFA;
+}
+
+/* Adicionar nova carta */
+
+.form {
+  display: flex;
+  flex-direction: column;
+  margin-left: auto;
+  margin-right: auto;
+  align-items: baseline;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  width: 355px;
+}
+
+.App {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.new-card-container, .card-preview-container {
+  margin: 30px;
+  width: 660px;
+  height: 1056;
+  margin-bottom: 50px;
+  height: 80vh;
+}
+
+
+input {
+  width: 355px;
+  height: 37px;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-bottom: 1px solid black;
+  font-family: 'Epilogue';
+  font-size: 16px;
+}
+
+.form-span {
+  display: block;
+  width: 355px;
+  height: 24px;
+  margin-right: 0;
+  font-family: 'Epilogue';
+  font-weight: 700;
+  font-style: normal;
+  font-size: 16px;
+  line-height: 150%;
+  color: #3D495C;
+}
+
+textarea {
+  width: 355px;
+  height: 108px;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-bottom: 1px solid black;
+  font-size: 16px;
+  font-family: 'Epilogue';
+}
+
+.label-attr {
+  width: 355px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.form-span-attr {
+  width: 80px;
+}
+
+.input-attr {
+  width: 275px;
+  height: 37px;
+  border: 1px solid black;
+  border-radius: 2px;
+}
+
+.label-image {
+  width: 355px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 25px;
+  margin-bottom: 5px;
+}
+
+.form-span-image {
+  width: 80px;
+}
+
+#cardImage {
+  width: 275px;
+  height: 37px;
+  border: 1px solid black;
+  border-radius: 2px;
+}
+
+#cardRare {
+  width: 355px;
+  height: 40px;
+}
+
+.label-card-rare{
+  display: block;
+  width: 355px;
+  height: 24px;
+  margin-right: 0;
+  font-family: 'Epilogue';
+  font-weight: 700;
+  font-style: normal;
+  font-size: 16px;
+  line-height: 150%;
+  color: #3D495C;
+  margin-top: 35px;
+}
+
+.label-trunfo {
+  display: flex;
+  justify-content: flex-start;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+#cardTrunfo {
+  width: 16px;
+  height: 16px;
+}
+
+.form-span-checkbox {
+  width: 150px;
+  height: 21px;
+}
+
+.save-button {
+  background: #003BE5;
+  filter: drop-shadow(0px 1px 2px rgba(0, 0, 0, 0.06)) drop-shadow(0px 1px 3px rgba(0, 0, 0, 0.1));
+  border-radius: 2px;
+  color: white;
+  width: 115px;
+  height: 40px;
+}
+
+/* Pré visualização */
+
+.card-preview-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: #023031;
+  width: 660px;
+}
+
+.new-card-title h1 {
+  font-family: 'Epilogue';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 28px;
+  line-height: 29px;
+  color: #FFFFFF;
+  margin-right: 430px;
+  margin-top: -50px;
+}
+
+.card-container-0 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 368px;
+  height: 549px;
+  background: #FFFFFF;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+}
+
+.card-container-1 {
+  display: flex;
+  flex-direction: column;
+  width: 348px;
+  height: 529px;
+  background: #036B52;
+  border-radius: 10px;
+  margin: auto;
+  align-items: center;
+}
+
+.card-title-1 {
+  display: flex;
+  flex-direction: row;
+  margin-top: 10px;
+  width: 317px;
+  height: 40px;
+  background: #023031;
+  border-radius: 10px 10px 0px 0px;
+  margin-bottom: 0;
+  color: #FFFFFF; 
+  align-items: center;
+  justify-content: space-between;
+}
+
+.rarity-container {
+  margin-left: 8px;
+  text-align: start;
+  width: 80px;
+}
+
+.rarity {
+  margin: 0;
+  font-family: 'Epilogue';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 150%;
+  color: #FFFFFF;
+}
+
+.card-title{
+  margin-right: 8px;
+}
+
+.image-container {
+  width: 317px;
+  display: flex;
+}
+
+.card-image {
+  position: relative;
+  width: 317px;
+}
+
+.image-super-trunfo {
+  position: absolute;
+  width: 2%;
+  margin-left: 265px;
+  margin-top: 115px;
+}
+
+.card-description {
+  width: 317px;
+  height: 147px;
+  font-family: 'Epilogue';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 12px;
+  line-height: 13px;
+  color: #FFFFFF;
+  margin-bottom: 0;
+}
+
+.card-container-2 {
+  background: #FFFFFF;
+  border: 1px solid black;
+  border-radius: 10px;
+  width: 317px;
+  max-height: 188px;
+  margin-top: -20%;
+}
+
+
+.attrs {
+  width: 317px;
+  height: 188px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.attr-container {
+  display: flex;
+  width: 284px;
+  height: 30.74px;
+  background: #F0F2F5;
+  border-radius: 10px;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.atribute {
+  margin-left: 10px;
+  font-family: 'Epilogue';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 150%;
+}
+
+.attr-value {
+  width: 48px;
+  height: 30.74px;
+  font-family: 'Epilogue';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 150%;
+  color: #FFFFFF;
+  background: #023031;
+  border-radius: 0px 10px 10px 0px;
+  text-align: center;
+}
+
+/* Todas as cartas */
+
+.cards-view-container {
+  display: flex;
+  flex-wrap: wrap;
+  width: 1536px;
+}
+
+.filters-container {
+  width: 660px;
+  margin: 30px 50px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.card-view {
+  width: 660px;
+  margin: 30px 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.cards-view-title {
+  padding-bottom: 10px;
+  padding-top: 50px;
+  text-align: center;
+  width: 1440px;
+  margin-left: 30px;
+  font-family: 'Epilogue';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 28px;
+  line-height: 29px;
+}
+
+.filters-title {
+  font-family: 'Epilogue';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 18px;
+}
+
+.name-search{
+  width: 305px;
+  height: 45px;
+  background: #FFFFFF;
+  border: 1px solid #3D495C;
+  border-radius: 6px;
+  font-family: 'Verdana';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 150%;
+  margin-bottom: 7px;
+}
+
+.rarity-search{
+  width: 311px;
+  height: 45px;
+  background: #FFFFFF;
+  border: 1px solid #3D495C;
+  border-radius: 6px;
+  padding: 0px;
+  gap: 10px;
+  margin-top: 7px;
+}
+
+#filterTrunfo {
+  width: 16px;
+  height: 16px;
+}
+
+.label-trunfo-filter {
+  margin-top: 10px;
+}
+
+.button-delete-container {
+  width: 368px;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.button-delete {
+  width: 118px;
+  height: 40px;
+  filter: drop-shadow(0px 1px 2px rgba(0, 0, 0, 0.06)) drop-shadow(0px 1px 3px rgba(0, 0, 0, 0.1));
+  border-radius: 2px;
+  background: #FFFFFF;
+  border: 2px solid #003BE5;
+  border-radius: 2px;
+}
+
+.span-form-delete-text {
+  font-family: 'Verdana';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  color: #003BE5;
+}
+
+.deck-container {
+  width: 1520px;
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: 5px;
+}
+
+input[type=checkbox] ,select, button:hover {
+  cursor: pointer;
+}
