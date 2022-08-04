@@ -5,9 +5,9 @@ class App extends React.Component {
   render() {
 
     return (
-      <React.StrictMode>
+
         <Person />
-      </React.StrictMode>
+
     );
   }
 }
