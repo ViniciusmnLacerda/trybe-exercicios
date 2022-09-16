@@ -1,7 +1,12 @@
+import React from 'react';
+import Form from './components/Form';
+import Students from './components/Students';
+
 function App() {
   return (
     <div className="App">
-      olá
+        <Form />
+        <Students />
     </div>
   );
 }
