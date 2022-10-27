@@ -1,0 +1,6 @@
+//comandos utilizados na CLI
+1) npm init -y
+2) npm install readline-sync 
+
+3) node index.js //comando executado após a criação do arquivo index.js
+4) npm install nodemon -D

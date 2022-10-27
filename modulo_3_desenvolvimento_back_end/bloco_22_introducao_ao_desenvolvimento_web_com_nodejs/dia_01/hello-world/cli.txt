@@ -1,0 +1,2 @@
+1) npm init //deixei todas as perguntas com a resposta padrão, menos meu nome. 
+2) npm i readline-sync
