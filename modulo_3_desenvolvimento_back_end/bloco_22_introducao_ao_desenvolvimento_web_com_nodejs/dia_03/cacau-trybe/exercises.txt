@@ -1,0 +1,17 @@
+Exercício 1
+Crie os testes de integração para o endpoint GET /chocolates/total
+
+Crie um caso para o código retornado
+Crie outro caso para o retorno esperado
+Atenção: Observe que os testes devem falhar por enquanto, como estamos desenvolvendo usando o conceito de TDD, mas não se preocupe que na sequência vamos fazer a implementação e os testes deverão passar. 👍
+
+Exercício Bonus
+GET /chocolates/search : Pesquisa de chocolates por nome
+
+Esse endpoint deve retornar os chocolates que contém uma determinada palavra em seu nome, usando o seguinte contrato:
+👉 GET /chocolates/search?name=Mo
+
+Objetivo: Retornar os chocolates que contém o termo pesquisado;
+Parâmetros de consulta (query params): name, tipo string;
+Código HTTP: 200 - OK;
+Body (exemplo):
