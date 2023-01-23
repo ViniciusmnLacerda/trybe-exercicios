@@ -1,0 +1,9 @@
+1 - Ordene alfabeticamente os restaurantes pelo nome (atributo name).
+
+2 - Ordene os restaurantes de forma decrescente baseado nas avaliações.
+
+///////////////// soluções
+
+1 - db.restaurants.find().sort({ "name": 1 }).pretty();
+
+2 - db.restaurants.find().sort({ "rating": -1 }).pretty();
